@@ -44,7 +44,7 @@
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&style=flat-square&logoColor=white" />
 
-## </p>
+</p>
 
 ## 職務経歴詳細
 
