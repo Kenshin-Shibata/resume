@@ -1,0 +1,11 @@
+{
+  "name": "kenshin",
+  "version": "1.0.0",
+  "description": "my resume",
+  "main": "index.js",
+  "author": "kenshin",
+  "license": "MIT",
+  "dependencies": {
+    "textlint": "^13.3.0"
+  }
+}
