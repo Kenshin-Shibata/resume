@@ -13,7 +13,7 @@
 
 ## 各種アカウント
 
-<a href="https://qiita.com/ps0139hk" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/@S_Kenny-Qiita-55C500.svg?logo=qiita&style=plastic" /></a>
+<a href="https://qiita.com/S_Kenny" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/@S_Kenny-Qiita-55C500.svg?logo=qiita&style=plastic" /></a>
 
 ---
 
